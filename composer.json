@@ -1,0 +1,21 @@
+{
+    "name": "persianyii2/yii-rss",
+    "description": "creat rss uses by array or db query data",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","rss"],
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "imani",
+            "email": "imani.n@rayana.ir"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "persianyii2\\rss\\": ""
+        }
+    }
+}
